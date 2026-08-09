@@ -33,7 +33,7 @@ class Solution {
             }
         }
 
-        // Minimum operations needed to connect C components is C - 1
+         
         return components - 1;
     }
 }
